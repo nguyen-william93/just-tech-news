@@ -3,7 +3,7 @@ const { Post } = require('../models');
 const postdata = [
   {
     title: 'Donec posuere metus vitae ipsum.',
-    post_url: 'https://buzzfeed.com/in/imperdiet/et/commodo/vulputate.png',
+    post_url: 'https://google.com',
     user_id: 10
   },
   {
